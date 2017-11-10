@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jipson.Lesson3", "Jipson.Lesson3\Jipson.Lesson3.csproj", "{729B6454-46BB-4E2C-B40B-37BDCBE5F55B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jipson.Lesson3.FileManagement", "Jipson.Lesson3.FileManagement\Jipson.Lesson3.FileManagement.csproj", "{FFAA8AEF-DDF6-48F8-BA77-BD23E29CB551}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{729B6454-46BB-4E2C-B40B-37BDCBE5F55B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{729B6454-46BB-4E2C-B40B-37BDCBE5F55B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{729B6454-46BB-4E2C-B40B-37BDCBE5F55B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{729B6454-46BB-4E2C-B40B-37BDCBE5F55B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFAA8AEF-DDF6-48F8-BA77-BD23E29CB551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFAA8AEF-DDF6-48F8-BA77-BD23E29CB551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFAA8AEF-DDF6-48F8-BA77-BD23E29CB551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFAA8AEF-DDF6-48F8-BA77-BD23E29CB551}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

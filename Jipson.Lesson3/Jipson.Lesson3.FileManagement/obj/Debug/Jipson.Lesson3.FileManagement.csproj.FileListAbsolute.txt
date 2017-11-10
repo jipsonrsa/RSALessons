@@ -1,0 +1,5 @@
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson3\Jipson.Lesson3.FileManagement\bin\Debug\Jipson.Lesson3.FileManagement.dll
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson3\Jipson.Lesson3.FileManagement\bin\Debug\Jipson.Lesson3.FileManagement.pdb
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson3\Jipson.Lesson3.FileManagement\obj\Debug\Jipson.Lesson3.FileManagement.csprojResolveAssemblyReference.cache
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson3\Jipson.Lesson3.FileManagement\obj\Debug\Jipson.Lesson3.FileManagement.dll
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson3\Jipson.Lesson3.FileManagement\obj\Debug\Jipson.Lesson3.FileManagement.pdb

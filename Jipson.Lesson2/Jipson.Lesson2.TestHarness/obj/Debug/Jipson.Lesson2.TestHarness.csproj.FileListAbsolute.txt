@@ -1,0 +1,14 @@
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson2\Jipson.Lesson2.TestHarness\bin\Debug\Jipson.Lesson2.TestHarness.exe.config
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson2\Jipson.Lesson2.TestHarness\bin\Debug\Jipson.Lesson2.TestHarness.exe
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson2\Jipson.Lesson2.TestHarness\bin\Debug\Jipson.Lesson2.TestHarness.pdb
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson2\Jipson.Lesson2.TestHarness\obj\Debug\Jipson.Lesson2.TestHarness.exe
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson2\Jipson.Lesson2.TestHarness\obj\Debug\Jipson.Lesson2.TestHarness.pdb
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson2\Jipson.Lesson2.TestHarness\bin\Debug\EntityFramework.dll
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson2\Jipson.Lesson2.TestHarness\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson2\Jipson.Lesson2.TestHarness\bin\Debug\Jipson.Lesson2.Data.dll
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson2\Jipson.Lesson2.TestHarness\bin\Debug\Jipson.Lesson2.DataAccessLayer.dll
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson2\Jipson.Lesson2.TestHarness\bin\Debug\Jipson.Lesson2.DataAccessLayer.pdb
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson2\Jipson.Lesson2.TestHarness\bin\Debug\Jipson.Lesson2.Data.pdb
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson2\Jipson.Lesson2.TestHarness\bin\Debug\EntityFramework.xml
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson2\Jipson.Lesson2.TestHarness\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson2\Jipson.Lesson2.TestHarness\obj\Debug\Jipson.Lesson2.TestHarness.csprojResolveAssemblyReference.cache

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{66071E72-B672-42DB-9981-B8A7D8C63228}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B637A197-D0F2-4A6E-80B5-0CB0800C00B8}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "AngularMVCAPI", "src\AngularMVCAPI\AngularMVCAPI.xproj", "{931EA701-FAFE-4F9E-9779-CB5EE6DCCB11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{931EA701-FAFE-4F9E-9779-CB5EE6DCCB11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{931EA701-FAFE-4F9E-9779-CB5EE6DCCB11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{931EA701-FAFE-4F9E-9779-CB5EE6DCCB11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{931EA701-FAFE-4F9E-9779-CB5EE6DCCB11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{931EA701-FAFE-4F9E-9779-CB5EE6DCCB11} = {66071E72-B672-42DB-9981-B8A7D8C63228}
+	EndGlobalSection
+EndGlobal

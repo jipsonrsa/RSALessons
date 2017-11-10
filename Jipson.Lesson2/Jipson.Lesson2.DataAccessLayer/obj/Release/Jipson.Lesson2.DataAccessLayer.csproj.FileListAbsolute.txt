@@ -1,0 +1,12 @@
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson2\Jipson.Lesson2.DataAccessLayer\bin\Release\Jipson.Lesson2.DataAccessLayer.dll.config
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson2\Jipson.Lesson2.DataAccessLayer\bin\Release\Jipson.Lesson2.DataAccessLayer.dll
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson2\Jipson.Lesson2.DataAccessLayer\bin\Release\Jipson.Lesson2.DataAccessLayer.pdb
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson2\Jipson.Lesson2.DataAccessLayer\bin\Release\EntityFramework.dll
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson2\Jipson.Lesson2.DataAccessLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson2\Jipson.Lesson2.DataAccessLayer\bin\Release\Jipson.Lesson2.Data.dll
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson2\Jipson.Lesson2.DataAccessLayer\bin\Release\Jipson.Lesson2.Data.pdb
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson2\Jipson.Lesson2.DataAccessLayer\bin\Release\EntityFramework.xml
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson2\Jipson.Lesson2.DataAccessLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson2\Jipson.Lesson2.DataAccessLayer\obj\Release\Jipson.Lesson2.DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson2\Jipson.Lesson2.DataAccessLayer\obj\Release\Jipson.Lesson2.DataAccessLayer.dll
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson2\Jipson.Lesson2.DataAccessLayer\obj\Release\Jipson.Lesson2.DataAccessLayer.pdb

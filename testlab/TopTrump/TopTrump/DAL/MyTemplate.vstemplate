@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>DAL-QuickApp</Name>
+    <Description>Data Access Layer for the QuickApp Project</Description>
+    <DefaultName>DAL</DefaultName>
+    <ProjectType>CSharp</ProjectType>
+    <ProjectSubType>Web</ProjectSubType>
+    <RequiredFrameworkVersion>4.5.1</RequiredFrameworkVersion>
+    <CreateInPlace>true</CreateInPlace>
+    <PromptForSaveOnCreation>true</PromptForSaveOnCreation>
+    <SortOrder>1001</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <!-- Indicates how many parent folders this item template should appear in -->
+    <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+  </TemplateData>
+  <WizardExtension>
+    <Assembly>TemplateBuilder, Version=1.2.0.0, Culture=neutral, PublicKeyToken=null</Assembly>
+    <FullClassName>TemplateBuilder.ChildWizard</FullClassName>
+  </WizardExtension>
+  <TemplateContent>
+    <Project File="DAL.xproj" ReplaceParameters="true" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+      <ProjectItem ReplaceParameters="true" TargetFileName="ApplicationDbContext.cs">ApplicationDbContext.cs</ProjectItem>
+      <Folder Name="Core" TargetFolderName="Core">
+        <ProjectItem ReplaceParameters="true" TargetFileName="AccountManager.cs">AccountManager.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="ApplicationPermissions.cs">ApplicationPermissions.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="CustomClaimTypes.cs">CustomClaimTypes.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Enums.cs">Enums.cs</ProjectItem>
+        <Folder Name="Interfaces" TargetFolderName="Interfaces">
+          <ProjectItem ReplaceParameters="true" TargetFileName="IAccountManager.cs">IAccountManager.cs</ProjectItem>
+        </Folder>
+      </Folder>
+      <ProjectItem ReplaceParameters="true" TargetFileName="DatabaseInitializer.cs">DatabaseInitializer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="IUnitOfWork.cs">IUnitOfWork.cs</ProjectItem>
+      <Folder Name="Models" TargetFolderName="Models">
+        <ProjectItem ReplaceParameters="true" TargetFileName="ApplicationRole.cs">ApplicationRole.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="ApplicationUser.cs">ApplicationUser.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Customer.cs">Customer.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Order.cs">Order.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="OrderDetail.cs">OrderDetail.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Product.cs">Product.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="ProductCategory.cs">ProductCategory.cs</ProjectItem>
+      </Folder>
+      <ProjectItem ReplaceParameters="true" TargetFileName="MyTemplate.vstemplate">MyTemplate.vstemplate</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Nuget.Config">Nuget.Config</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="project.json">project.json</ProjectItem>
+      <Folder Name="Properties" TargetFolderName="Properties">
+        <ProjectItem ReplaceParameters="true" TargetFileName="AssemblyInfo.cs">AssemblyInfo.cs</ProjectItem>
+      </Folder>
+      <Folder Name="Repositories" TargetFolderName="Repositories">
+        <ProjectItem ReplaceParameters="true" TargetFileName="CustomerRepository.cs">CustomerRepository.cs</ProjectItem>
+        <Folder Name="Interfaces" TargetFolderName="Interfaces">
+          <ProjectItem ReplaceParameters="true" TargetFileName="ICustomerRepository.cs">ICustomerRepository.cs</ProjectItem>
+          <ProjectItem ReplaceParameters="true" TargetFileName="IOrdersRepository.cs">IOrdersRepository.cs</ProjectItem>
+          <ProjectItem ReplaceParameters="true" TargetFileName="IProductRepository.cs">IProductRepository.cs</ProjectItem>
+          <ProjectItem ReplaceParameters="true" TargetFileName="IRepository.cs">IRepository.cs</ProjectItem>
+        </Folder>
+        <ProjectItem ReplaceParameters="true" TargetFileName="OrdersRepository.cs">OrdersRepository.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="ProductRepository.cs">ProductRepository.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Repository.cs">Repository.cs</ProjectItem>
+      </Folder>
+      <ProjectItem ReplaceParameters="true" TargetFileName="UnitOfWork.cs">UnitOfWork.cs</ProjectItem>
+    </Project>
+  </TemplateContent>
+</VSTemplate>

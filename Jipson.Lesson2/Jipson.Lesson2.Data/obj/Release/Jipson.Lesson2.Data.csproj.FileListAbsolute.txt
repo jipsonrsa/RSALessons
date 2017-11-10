@@ -1,0 +1,9 @@
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson2\Jipson.Lesson2.Data\bin\Release\Jipson.Lesson2.Data.dll.config
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson2\Jipson.Lesson2.Data\bin\Release\Jipson.Lesson2.Data.dll
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson2\Jipson.Lesson2.Data\bin\Release\Jipson.Lesson2.Data.pdb
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson2\Jipson.Lesson2.Data\bin\Release\EntityFramework.dll
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson2\Jipson.Lesson2.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson2\Jipson.Lesson2.Data\bin\Release\EntityFramework.xml
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson2\Jipson.Lesson2.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson2\Jipson.Lesson2.Data\obj\Release\Jipson.Lesson2.Data.dll
+C:\Users\f28232\Documents\Visual Studio 2015\Projects\lab\Jipson.Lesson2\Jipson.Lesson2.Data\obj\Release\Jipson.Lesson2.Data.pdb
